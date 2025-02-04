@@ -81,7 +81,7 @@ Recomendamos não realizar grande alterações no código fonte do projeto para 
 
 # Contribuintes
 Nice Store foi desenvolvidos em grupo pelos integrantes:
-- Igor Felipe (Este Perfil);
+- [Igor Felipe]();
 - [Guilherme Matheus]();
 - [Eliana Lima]();
 - [Nathalia Narumi]();
